@@ -1,7 +1,7 @@
 # Hi 👋, I'm Vaiehiba
 
 🎓 Bachelor of Computer Applications (BCA) Graduate  
-💻 Passionate about Software Development & Web Technologies  
+💻 Passionate about Solving problems through clean code, exploring AI/ML technologies, and learning modern backend systems."  
 🚀 Interested in Data science , AI & ML
 📍 Rajkot, India  
 
